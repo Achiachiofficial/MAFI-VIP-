@@ -1,4 +1,5 @@
 # ⚡ MAFI-VIP ULTIMATE TOOLKIT V7.0 ⚡
+![Banner](https://raw.githubusercontent.com/Achiachiofficial/MAFI-VIP-/main/i am hacker 🥲.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-7.0-brightgreen">
