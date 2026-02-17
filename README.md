@@ -74,27 +74,27 @@ python ultimate.py
 
 
 
-## ​👨‍💻 Developer Information
+## ​​👨‍💻 Developer Information
 ​<p align="center">
-<b>ACHI_flash</b>
-
 <i>Lead Developer</i>
 
-<a href="https://www.google.com/search?q=https://github.com/Achiachiofficial">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Achiachiofficial-black%3Fstyle%3Dflat-square%26logo%3Dgithub">
+
+<a href="https://github.com/Achiachiofficial">
+<img src="https://img.shields.io/badge/GitHub-Achiachiofficial-black?style=flat-square&logo=github">
 </a>
 </p>
 
-### ​📊 Repository Status
+
+## ​📊 Repository Status
 ​<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DAchiachiofficial%26repo%3DMAFI-VIP-%26theme%3Dtokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Achiachiofficial&repo=MAFI-VIP-&theme=tokyonight" />
 </p>
 ​[!CAUTION]
 
 
 **⚠️Disclaimer**: මෙම ටූල් එක අධ්‍යාපනික කටයුතු සඳහා පමණක් භාවිතා කරන්න. මෙහි වැරදි භාවිතය සම්බන්ධයෙන් නිර්මාණකරු වගකීමක් නොදරයි.
 ​<p align="center">
-<b>Made with ❤️ by Achiachi</b>
-
-<img src="https://www.google.com/search?q=https://view-counter.api.fnkr.net/v1/counter/Achiachiofficial" />
+  <b>Made with ❤️ by Achiachi</b><br><br>
+  <img src="https://view-counter.api.fnkr.net/v1/counter/Achiachiofficial/MAFI-VIP-" alt="Visitor Counter" />
 </p>
+
