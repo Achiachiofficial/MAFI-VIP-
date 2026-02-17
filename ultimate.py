@@ -3,18 +3,18 @@ import time
 import json
 import urllib.request
 
-# පාටවල් (Colors)
-G = "\033[92m" # Green
-R = "\033[91m" # Red
-C = "\033[96m" # Cyan
-Y = "\033[93m" # Yellow
-W = "\033[0m"  # White
+
+G = "\033[92m" 
+R = "\033[91m" #
+C = "\033[96m" # 
+Y = "\033[93m" # 
+W = "\033[0m"  # 
 
 def update_tool():
     print(f"{Y}[+] Checking for updates...{W}")
     try:
-        # මෙතන ඔයාගේ GitHub එකේ 'raw' link එක දාන්න ඕනේ
-        # උදා: https://raw.githubusercontent.com/Achiachiofficial/MAFI-VIP-/main/ultimate.py
+    
+
         url = "https://raw.githubusercontent.com/Achiachiofficial/MAFI-VIP-/main/ultimate.py"
         urllib.request.urlretrieve(url, "ultimate.py")
         print(f"{G}[+] Update Successful! Please restart the tool.{W}")
@@ -41,7 +41,7 @@ def banner():
 def login():
     banner()
     key = input(f"{C}Enter Login Key: {W}")
-    if key == "mafi": # මෙතන ඔයාට ඕන Key එක දෙන්න
+    if key == "mafi":
         return True
     else:
         print(f"{R}Wrong Key!{W}")
@@ -66,7 +66,7 @@ def main():
 
         if choice == '17': update_tool()
         elif choice == '00': break
-        # අනිත් සියලුම elif කොටස් කලින් වගේම මෙතනට දාන්න...
+        
 
 if __name__ == "__main__":
     main()
