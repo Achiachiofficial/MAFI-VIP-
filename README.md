@@ -39,7 +39,7 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/ඔය](https://github.com/ඔය)ාගේ_Username/MAFI-VIP.git
+git clone https://github.com/Achiachiofficial/MAFI-VIP-.git
 cd MAFI-VIP
 python ultimate.py
 ```
